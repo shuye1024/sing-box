@@ -4,7 +4,7 @@
 VERSION='v1.2.17 (2025.08.22)'
 
 # 各变量默认值
-GH_PROXY='https://gh-proxy.com/'
+GH_PROXY='https://hub.glowp.xyz/'
 TEMP_DIR='/tmp/sing-box'
 WORK_DIR='/etc/sing-box'
 START_PORT_DEFAULT='8881'
